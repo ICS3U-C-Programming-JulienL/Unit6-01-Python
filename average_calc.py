@@ -7,6 +7,7 @@
 import constants
 import random
 
+
 def main():
     # declare marks_array
     marks_array = []
