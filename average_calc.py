@@ -4,8 +4,8 @@
 # Date: December 13, 2023
 # This program display the average of 10 marks
 
-import constants
 import random
+import constants
 
 
 def main():
